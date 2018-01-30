@@ -25,7 +25,7 @@ public class DigitalClock2 extends JFrame implements ActionListener {
 
 	public DigitalClock2() {
 		setLayout(new FlowLayout());
-		setSize(400, 200);
+		setSize(500, 200);
 		setTitle("Digital Clock");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
